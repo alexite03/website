@@ -1,3 +1,13 @@
+body{
+    display: flex;
+}
+#table{
+    display: flex;
+    flex-direction: column;
+}
+#main{
+    width: 1550;
+}
 h1{
     font-family: francois_oneregular;
     font-size: 40;
